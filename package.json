@@ -1,0 +1,15 @@
+{
+  "name": "passport-mauth",
+  "version": "1.0.0",
+  "description": "Passport authentication strategy for secure password handling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "poiuy_qwert",
+  "license": "MIT",
+  "dependencies": {
+    "mauth-crypto": "git+https://github.com/poiuyqwert/mauth-crypto.git",
+    "passport-strategy": "^1.0.0"
+  }
+}
